@@ -1,0 +1,65 @@
+.maher{
+    display: flex; 
+    justify-content: flex-end;
+  
+}
+.navigateur{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    justify-content: space-between;
+
+    
+}
+.liste {
+    margin-right: 35px;
+    margin-left: 35px;
+}
+.liste2 {
+    margin-right: 35px;}
+.liste3 {
+    margin-right: 35px;}
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;}
+
+
+
+.maher2{
+    display: flex;
+    justify-content: center;
+        align-items: center;
+    margin-top: 250px;
+    
+    
+}
+
+
+.maher3 {
+    z-index: 0;
+    position: absolute;
+
+}
+    
+.maher4{
+    position: relative;
+    z-index: 1;
+}
+
+
+#form {
+padding: 0 0 0 10px;
+    font-size: 16px;
+    height: 44px;
+    width: 565px;
+}
+
+
+
+    
+
+
+
+
